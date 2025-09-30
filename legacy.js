@@ -1,9 +1,9 @@
 'use strict';
 
-/** @type {import('.').AsyncGeneratorFunctionConstructor | false} */
+/** @type {import('./index.d.ts').AsyncGeneratorFunctionConstructor | false} */
 var cached;
 
-/** @type {import('.')} */
+/** @type {import('./index.d.ts')} */
 module.exports = function getAsyncGeneratorFunction() {
 	if (typeof cached === 'undefined') {
 		try {
