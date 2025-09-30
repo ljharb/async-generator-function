@@ -12,6 +12,7 @@
 			"files": "./index.js",
 			"extends": "@ljharb/eslint-config/node/8",
 			"rules": {
+				"max-len": "off",
 				"id-length": "off",
 			},
 		},
