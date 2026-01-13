@@ -48,5 +48,5 @@ Clone the repo, `npm install`, and run `npm test`
 [downloads-url]: https://npm-stat.com/charts.html?package=async-generator-function
 [codecov-image]: https://codecov.io/gh/ljharb/async-generator-function/branch/main/graphs/badge.svg
 [codecov-url]: https://app.codecov.io/gh/ljharb/async-generator-function/
-[actions-image]: https://img.shields.io/endpoint?url=https://github-actions-badge-u3jn4tfpocch.runkit.sh/ljharb/async-generator-function
+[actions-image]: https://img.shields.io/github/check-runs/ljharb/async-generator-function/main
 [actions-url]: https://github.com/ljharb/async-generator-function/actions
